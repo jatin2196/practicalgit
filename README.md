@@ -1,2 +1,2 @@
 # practicalgit
-I'm learning abou the Git.
+I'm learning about the Git. We are good to go.
